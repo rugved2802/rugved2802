@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **React. TailwindCSS, ReactNative**
+- 💬 Ask me about **React.JS, TailwindCSS, ReactNative**
 
 - 📫 How to reach me **rugvedmairal28@gmail.com**
 
