@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **App Development**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter and Machine Learning**
 
 - 💬 Ask me about **React.JS, TailwindCSS, ReactNative**
 
